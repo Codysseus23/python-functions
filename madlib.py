@@ -1,2 +1,3 @@
 def madlib(name, subject):
-    return '{name}\' favorite subject is {subject}. '
+    return f'{name}\' favorite subject is {subject}. '
+
