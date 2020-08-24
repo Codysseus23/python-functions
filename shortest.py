@@ -1,0 +1,2 @@
+def shortest(lst):
+    ddddd
